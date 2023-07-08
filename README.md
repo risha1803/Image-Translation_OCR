@@ -9,3 +9,13 @@ To maintain the original structure of the image and preserve other elements apar
 
 By combining these steps, we were successful in creating a pipeline that takes an image or a file with images as input, extracts the text using OCR models, performs translation on the extracted text, and generates new images with the translated text while preserving the original structure and other elements of the image.
 
+Example Input Image : 
+
+
+![photo5](https://github.com/risha1803/Image-Translation_OCR/assets/112503204/98e8ebd6-cd15-40b1-9e78-f9ce11327b69)
+
+Output Received: 
+
+
+![out1](https://github.com/risha1803/Image-Translation_OCR/assets/112503204/becd3ade-1312-46bb-8f64-f125f6182559)
+
